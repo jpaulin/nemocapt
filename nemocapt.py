@@ -6,6 +6,13 @@ Requirements: pip install textual rich psutil
 
 # © 2026 Alan Vaihto – Kaikki oikeudet vaihdettu, paitsi huumori!
 
+# Before running with "python", install libraries:
+#  pip install psutil textual rich
+# Then run:
+#  python ./nemocapt.py
+#
+# Please report bugs in the github! 
+
 import psutil
 import time
 from collections import deque
